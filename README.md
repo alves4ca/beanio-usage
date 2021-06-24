@@ -43,7 +43,7 @@ ___
 ___
 `Test Results`
 
-![Results](TestResults.html)
+![Results](test-results.png)
 ___
 ###Reference
 http://beanio.org/2.1/docs/reference/index.html
