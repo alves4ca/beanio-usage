@@ -1,5 +1,5 @@
 # beanio-usage
-## This is a quick example of how to unmarshal a plain text file delimited by size using the Beanio library for Java.
+## Quick example of how to unmarshal a plain text file delimited by size using the Beanio library for Java.
 ### Steps
     - Create a POJO file with the required fields
     - Anotate the class with '@Record'
